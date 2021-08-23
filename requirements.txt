@@ -1,0 +1,7 @@
+streamlit==0.86.0
+librosa==0.8.1
+numpy==1.19.5
+matplotlib==3.3.4
+sklearn==0.22.2.post1
+pydub==0.25.1
+

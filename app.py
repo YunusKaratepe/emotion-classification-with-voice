@@ -12,7 +12,7 @@ st.write(f""" # Sentiment Classifier Through Voice!
     * You can check project slide from [here]({project_slide}).
 """)
 
-gpus = helper.gpu_config(8000)
+gpus = helper.gpu_config(4000)
 st.subheader('Available Gpus')
 gpus
 
