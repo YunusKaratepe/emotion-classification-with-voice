@@ -14,7 +14,7 @@
 ![Gpu](md-images/gpu-code.png)
 * All the trained CNN and ML models are inside of ***models*** directory. (If you want to check them out)
 * Open command line in this directory and type: **streamlit run app.py**
-* Then you should have application open on your favorite web browser :)
+* Then you should have application open on your favorite web browser :sunglasses:
 
 ### Making predictions
 
@@ -34,5 +34,5 @@
 * Click the predict button and it make take some time which is actually directly proportional to selected ML-Model count and created spectrogram count. If you have tensorflow-gpu it will take less ofc.
 * And there you have it! You can see at upper image I gave happy.mp3 as input and from the image below, I got 20 happy vote from CNN, Logistic Regression, SVC Polynomial Kernel and Linear SVC.
 ![predictions](md-images/predictions.png)
-* Have fun with it! :)
+* Have fun with it! :yum:
 
