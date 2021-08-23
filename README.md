@@ -4,7 +4,7 @@
 * Basically uses CNN models and ML-Models which are trained with [RAVDESS Dataset](https://www.kaggle.com/uwrfkaggler/ravdess-emotional-speech-audio).
 * Training these CNNs and ML-Models was actually my final project and it was a team work. At training phase I worked with Ilker Tınkır and I really appreciate his help.
 * You can find more information about this project in this [slide](https://docs.google.com/presentation/d/1UGMgex6G5fAtTqPs33SiFulAznYufKwQ/edit?usp=sharing&ouid=118405775020092724633&rtpof=true&sd=true).
-* Give it a shot! Maybe it finds your deep sadness hidden in your laugh :P
+* Give it a shot! Maybe it finds your deep sadness hidden in your laugh U+1F61C
 
 
 ### How to run?
