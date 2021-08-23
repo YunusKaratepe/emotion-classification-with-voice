@@ -14,7 +14,7 @@
 ![Gpu](md-images/gpu-code.png)
 * All the trained CNN and ML models are inside of ***models*** directory. (If you want to check them out)
 * Open command line in this directory and type: **streamlit run app.py**
-* Then you should have application open on your favorite web browser :sunglasses:
+* Then you should have application opened on your favorite web browser :sunglasses:
 
 ### Making predictions
 
