@@ -1,3 +1,7 @@
 data/
 cnn_train.ipynb
 spectrogram.png
+voice.wav
+spectrogram*
+__pycache__/
+requirements.txt
