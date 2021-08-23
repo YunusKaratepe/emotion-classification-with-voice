@@ -8,7 +8,7 @@
 
 
 ### How to run?
-* Clone this repository to your computer.
+* Download or Clone this repository to your computer.
 * Go into ***requirements.txt*** and install all the libraries listed there.
 * If you don't have tensorflow gpu installed to your enviroment. Go into ***app.py*** and comment these 3 lines of code. 
 ![Gpu](md-images/gpu-code.png)
