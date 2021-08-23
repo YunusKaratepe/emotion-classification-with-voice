@@ -1,10 +1,10 @@
-# Sentiment Analysis Through Voice With Python
+# Emotion Classification With Voice Using CNN, ML in Python
 
 * This application tries to predict the emotion of a person with given voice data.
 * Basically uses CNN models and ML-Models which are trained with [RAVDESS Dataset](https://www.kaggle.com/uwrfkaggler/ravdess-emotional-speech-audio).
 * Training these CNNs and ML-Models was actually my final project and it was a team work. At training phase I worked with Ilker Tınkır and I really appreciate his help.
 * You can find more information about this project in this [slide](https://docs.google.com/presentation/d/1UGMgex6G5fAtTqPs33SiFulAznYufKwQ/edit?usp=sharing&ouid=118405775020092724633&rtpof=true&sd=true).
-* Give it a shot! Maybe it finds your deep sadness hidden in your laugh :P
+* Give it a shot! Maybe it finds your deep sadness hidden in your laugh :stuck_out_tongue_closed_eyes:
 
 
 ### How to run?
@@ -14,7 +14,7 @@
 ![Gpu](md-images/gpu-code.png)
 * All the trained CNN and ML models are inside of ***models*** directory. (If you want to check them out)
 * Open command line in this directory and type: **streamlit run app.py**
-* Then you should have application open on your favorite web browser :)
+* Then you should have application opened on your favorite web browser :sunglasses:
 
 ### Making predictions
 
@@ -34,5 +34,5 @@
 * Click the predict button and it make take some time which is actually directly proportional to selected ML-Model count and created spectrogram count. If you have tensorflow-gpu it will take less ofc.
 * And there you have it! You can see at upper image I gave happy.mp3 as input and from the image below, I got 20 happy vote from CNN, Logistic Regression, SVC Polynomial Kernel and Linear SVC.
 ![predictions](md-images/predictions.png)
-* Have fun with it! :)
+* Have fun with it! :yum:
 
