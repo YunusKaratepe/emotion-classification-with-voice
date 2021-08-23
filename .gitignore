@@ -4,3 +4,4 @@ spectrogram.png
 voice.wav
 spectrogram*
 __pycache__/
+unused_models/
