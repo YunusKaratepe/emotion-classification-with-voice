@@ -8,6 +8,7 @@
 
 
 ### How to run?
+* First of all I didn't try to run this app on a Windows or Mac computer. I prefer you to go with Linux.
 * Download or Clone this repository to your computer.
 * Go into ***requirements.txt*** and install all the libraries listed there.
 * If you don't have tensorflow gpu installed and get error about tensorflow gpu, go into ***app.py*** and delete these 3 lines of code ![Gpu](md-images/gpu-code.png)
