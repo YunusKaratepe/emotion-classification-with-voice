@@ -11,7 +11,8 @@
 * Download or Clone this repository to your computer.
 * For running on windows, first go to this [link](https://drive.google.com/file/d/1JEr5Gxnl_7n_B3g11JPEvfni6k8uvZte/view?usp=sharing), download the rar file and extract it into the directory of ***app.py***. These files are ffmpeg files which we are using these with pydub library to convert .mp3 files to .wav files. All 3 .exe files must be in the same directory with ***app.py***
 * Go into ***requirements.txt*** and install all the libraries listed there.
-* If you don't have tensorflow gpu installed and get error about tensorflow gpu, go into ***app.py*** and delete these 3 lines of code ![Gpu](md-images/gpu-code.png)
+* If you don't have tensorflow gpu installed and get error about tensorflow gpu, go into ***app.py*** and delete these 3 lines of code 
+* ![Gpu](md-images/gpu-code.png)
 * All the trained CNN and ML models are inside of ***models*** directory. (If you want to check them out)
 * Open command line in this directory and type: **streamlit run app.py**
 * Then you should have application opened on your favorite web browser :sunglasses:
