@@ -8,7 +8,7 @@
 
 
 ### How to run?
-* For running on windows, first go to this [link](https://drive.google.com/file/d/1JEr5Gxnl_7n_B3g11JPEvfni6k8uvZte/view?usp=sharing) and download the zip file into the directory of ***app.py***.
+* For running on windows, first go to this [link](https://drive.google.com/file/d/1JEr5Gxnl_7n_B3g11JPEvfni6k8uvZte/view?usp=sharing), download the rar file and extract it into the directory of ***app.py***.
 * Download or Clone this repository to your computer.
 * Go into ***requirements.txt*** and install all the libraries listed there.
 * If you don't have tensorflow gpu installed and get error about tensorflow gpu, go into ***app.py*** and delete these 3 lines of code ![Gpu](md-images/gpu-code.png)
