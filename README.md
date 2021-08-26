@@ -1,4 +1,5 @@
 # Emotion Classification With Voice Using CNN, ML in Python
+## Updated for running on Windows!
 
 * This application tries to predict the emotion of a person with given voice data.
 * Basically uses CNN models and ML-Models which are trained with [RAVDESS Dataset](https://www.kaggle.com/uwrfkaggler/ravdess-emotional-speech-audio).
