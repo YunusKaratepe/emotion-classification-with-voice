@@ -5,6 +5,7 @@ matplotlib==3.3.4
 tensorflow==2.4.0
 scikit-learn==0.22.2.post1
 pydub==0.25.1
-ffmpeg
+
+ffmpeg # If you are running on windows don't install this.
 
 # If you have installed other versions, it may still run. But this is what i have and its working. 
