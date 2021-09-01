@@ -38,3 +38,6 @@
 ![predictions](md-images/predictions.png)
 * Have fun with it! :yum:
 
+# Contact
+E-Mail: yunus.karatepe1699@gmail.com
+linkedin: https://www.linkedin.com/in/yunus-karatepe-911b7a17b/
