@@ -29,7 +29,7 @@
 ![Success](md-images/success.png)
 
 * I actually saved models at 50. epoch and 100. epoch, it turns out sometimes 50 epochs trained models performs better but in general i perefer you to go with 100 epochs trained ones.
-* And the last parameter is Time-Axis duration of spectrograms. 100 and 500 are bounds but they actually don't mean that much as numbers. All you need to know if you go with 100 there will be a lot of spectrograms and each time axis of each spectrogram will be short. If you go 500 your time axis will be too long and details may disappear. This may lead prediction to take too much time (Ofc. it's directly proportional to your voice data duration). Training data voices were around **140** so again ***I prefer*** you to go with **140-150**.
+* And the last parameter is Time-Axis duration of spectrograms. 100 and 500 are bounds but they actually don't mean that much as numbers. All you need to know if you go with 100 there will be a lot of spectrograms and each time axis of each spectrogram will be short. If you go 500 your time axis will be too long and details may disappear. This may lead prediction to take too much time (Ofc. it's directly proportional to your voice data duration). Training data voices were around **140** so again ***I suggest*** you to go with **140-150**.
 * Then select your voice that you want to predict emotions. There are example data in **audios** folder. Check these out if you will.
 * After you select your voice from your computer to predict, you can listen it from app and also predict button will be shown.
 ![predict-button](md-images/predict-button.png)
