@@ -33,7 +33,7 @@
 * Then select your voice that you want to predict emotions. There are example data in **audios** folder. Check these out if you will.
 * After you select your voice from your computer to predict, you can listen it from app and also predict button will be shown.
 ![predict-button](md-images/predict-button.png)
-* Click the predict button and it make take some time which is actually directly proportional to selected ML-Model count and created spectrogram count. If you have tensorflow-gpu it will take less ofc.
+* Click the predict button and it may take some time which is actually directly proportional to selected ML-Model count and created spectrogram count. If you have tensorflow-gpu it will take less ofc.
 * And there you have it! You can see at upper image I gave happy.mp3 as input and from the image below, I got 20 happy vote from CNN, Logistic Regression, SVC Polynomial Kernel and Linear SVC.
 ![predictions](md-images/predictions.png)
 * Have fun with it! :yum:
