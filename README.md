@@ -40,4 +40,4 @@
 
 # Contact
 * E-Mail: yunus.karatepe1699@gmail.com
-* LinkedIn: https://www.linkedin.com/in/yunus-karatepe-911b7a17b/
+* LinkedIn: https://www.linkedin.com/in/yunus-karatepe
